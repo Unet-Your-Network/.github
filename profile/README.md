@@ -1,7 +1,7 @@
 ## Hi there it's Unet 👋
 #Your Network
 
-🙋‍♀️ A short introduction - The purpose of our website is to create a portal where you can easily build and share your professional network or portfolio for job applications.
+🙋‍♀️ The purpose of our website is to create a portal where you can easily build and share your professional network or portfolio for job applications.
 
 <!--
 
