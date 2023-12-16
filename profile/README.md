@@ -1,5 +1,5 @@
 ## Hi there it's Unet 👋
-#Your Network
+#YourNetwork
 
 🙋‍♀️ The purpose of our website is to create a portal where you can easily build and share your professional network or portfolio for job applications.
 
